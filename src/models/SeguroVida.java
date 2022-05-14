@@ -4,6 +4,6 @@ public class SeguroVida implements Tributo {
 
     @Override
     public double getValorImposto() {
-        return 42;
+        return 25;
     }
 }
